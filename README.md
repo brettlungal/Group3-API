@@ -5,10 +5,20 @@
 * Manitoba clinic finder is a API that helps Manitoba residents find clinics near them, based on their current needs. 
 
 ## Endpoints
-more words
-* clinic by location
-* clinic by service type (eg. dentist, emergency medical, optomitrist)
-* list of clinics that administer shots/vaccinations
+* ### By Location
+  `https://mbclinicfinder/api/clinic/location`
+
+  Parameters: longitude and latitude of the area you want to find the clinic in.
+
+* ### By Service
+  `https://mbclinicfinder/api/clinic/service`
+
+  Parameters: service type of the service you need (walk-in/ dental/ psychologist...).
+
+* ### By Shots
+  `https://mbclinicfinder/api/clinic/shots`
+
+  Parameters: shots type of the shot/vaccination you need (flu shot/ COVID-19 vaccination/ MMR...).
 
 ## Description of Resources
 ```json
