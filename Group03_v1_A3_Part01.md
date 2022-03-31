@@ -24,4 +24,3 @@
 * Weather/Road Conditions (Emergency API) -- NOT DOING
     * get weather by location
     * get road condition by highway number or area
-    * 
