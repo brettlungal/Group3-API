@@ -1,8 +1,8 @@
 # Group3-API Description
-
+# Manitoba Clinic Finder 
 
 ## Description
-words
+* Manitoba clinic finder is a API that helps Manitoba residents find clinics near them, based on their current needs. 
 
 ## Endpoints
 more words
