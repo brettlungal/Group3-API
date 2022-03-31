@@ -10,7 +10,7 @@ more words
 ## Description of Resources
 ```json
 {
-"some":"json
+"some":"json"
 }
 ```
 
