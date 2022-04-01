@@ -21,26 +21,26 @@
   Parameters: shots type of the shot/vaccination you need (flu shot/ COVID-19 vaccination/ MMR...).
 
 ## Description of Resources
-```json
-{
-    "clinics": [
-        {
-            "clinicName": "Health Sciences Center",
-            "clincAddress":"820 Sherbrook St, Winnipeg, MB"
-        },
-        {
-            "clinicName": "Downtown Clinic",
-            "clinicAddress": "1 Downtown Ave, Winnipeg, MB"
-        },
-        {
-            "clinicName": "The Winnipeg Clinic",
-            "clinicAddress":"2 Winnipeg Rd, Winnipeg, MB"
-        }
-    ],
-    "Status": "OK",
-    "Code": 200
-}
-```
+    ```json
+    {
+        "clinics": [
+            {
+                "clinicName": "Winnipeg Dental",
+                "clincAddress":"12 Dentist Way, Winnipeg, MB"
+            },
+            {
+                "clinicName": "Downtown Clinic",
+                "clinicAddress": "1 Downtown Ave, Winnipeg, MB"
+            },
+            {
+                "clinicName": "The Best Dental Clinic",
+                "clinicAddress":"500 Osbourne Ave, Winnipeg, MB"
+            }
+        ],
+        "Status": "OK",
+        "Code": 200
+    }
+    ```
 
 ## Sample Request with Sample Response
 * ### Example By Location
