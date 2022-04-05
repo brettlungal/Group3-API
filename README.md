@@ -2,7 +2,7 @@
 # Manitoba Clinic Finder 
 
 ## Description
-* Manitoba clinic finder is a API that helps Manitoba residents find clinics near them, based on their current needs. 
+* Manitoba clinic finder is an API that helps Manitoba residents find clinics near them, based on their current needs. 
 
 ## Endpoints
 * ### By Location
